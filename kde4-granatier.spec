@@ -4,12 +4,12 @@
 
 Summary:	Granatier
 Name:		kde4-%{orgname}
-Version:	4.14.0
+Version:	4.14.3
 Release:	1
 License:	GPL
 Group:		X11/Applications/Games
 Source0:	http://download.kde.org/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	f91a4591271375df55b732d59e47a506
+# Source0-md5:	1bf4a71c54f11192d8827206cc7148d1
 BuildRequires:	automoc4 >= 0.9.88
 BuildRequires:	cmake >= 2.8.0
 BuildRequires:	kde4-kdelibs-devel >= %{version}
